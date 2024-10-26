@@ -2,9 +2,9 @@
 <h1><b>Hi there, I'm </b><a href="https://github.com/vishal-purushotham">Vishal Purushotham</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
-<img src = "https://i.pinimg.com/originals/15/bc/1a/15bc1a87577971e7b031a7d7c7140af6.gif" width = 35>&nbsp;***About me***
+<img src = "https://www.icegif.com/wp-content/uploads/2023/09/icegif-498.gif" width = 35>&nbsp;***About me***
 
-<img align="right" width=200px alt="Unicorn" src="https://media1.tenor.com/m/OTE2C8NwrmwAAAAC/mm.gif"/>
+<img align="right" width=200px alt="Unicorn" src="https://media1.tenor.com/m/amcmum0mwucAAAAd/vagabond.gif"/>
 
 A tech enthusiast, crafting solutions with C++, Python, and Frontend technologies 🚀
 - 📚 I’m currently learning ...
