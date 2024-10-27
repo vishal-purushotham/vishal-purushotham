@@ -87,9 +87,9 @@ A tech enthusiast, crafting solutions with C++, Python, and Frontend technologie
 
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+    <img src="https://www.icegif.com/wp-content/uploads/2023/09/icegif-498.gif" width="30">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/vishal-purushotham/count.svg">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+    <img src="https://www.icegif.com/wp-content/uploads/2023/09/icegif-498.gif" width="30">
 </div>
 <br>
 <br>
