@@ -85,7 +85,11 @@ A tech enthusiast, crafting solutions with C++, Python, and Frontend technologie
 </table>
 </p>
 <br>
-[![Leetcode Stats](https://leetcard.jacoblin.cool/vishal_purushotham)](https://leetcode.com/vishal_purushotham)
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***LeetCode Stats***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://leetcard.jacoblin.cool/vishal_purushotham" alt="Leetcode Stats">
+<br>
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://www.icegif.com/wp-content/uploads/2023/09/icegif-498.gif" width="30">
