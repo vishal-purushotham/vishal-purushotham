@@ -13,7 +13,7 @@ A tech enthusiast, crafting solutions with C++, Python, and Frontend technologie
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
 - 📫 Reach out to me at: <a href="buvan5894@gmail.com">buvan5894@gmail.com</a>
-- 📄 Know about my experiences: <a href="https://vishal-purushotham.github.io/resume/">Resume</a>
+<!--- 📄 Know about my experiences: <a href="https://vishal-purushotham.github.io/resume/">Resume</a>-->
 <br>
 
 
